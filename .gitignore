@@ -35,4 +35,8 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+# vscode
+.vscode/
+.prettierrc
+
 app-example
